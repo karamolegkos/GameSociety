@@ -1,0 +1,92 @@
+@charset "UTF-8";
+
+body{
+	background-color:#DEFFFB;
+}
+
+h3{
+	text-align: center;
+}
+
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=password], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #15CA81;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #0AB872;
+}
+
+div {
+  margin-left: 20%;
+  margin-right: 20%;
+  border-radius: 5px;
+  background-color: #84EADD;
+  padding: 20px;
+}
+
+img{
+	width:50px;
+	height:50px;
+	clip-path: circle();
+}
+
+div[class=details]{
+	background-color: #0AB872;
+	margin-left: 0%;
+  	margin-right: 0%;
+}
+
+img[alt=profile]{
+	width:70px;
+	height:70px;
+	clip-path: initial;
+}
+
+div[class=profile]{
+	color: white;
+	background-color: #006A40;
+	margin-left: 15%;
+  	margin-right: 15%;
+}
+
+input[type=image]{
+	width:74px;
+	height:74px;
+}
+
+form[class=profileImages]{
+	display: inline;
+}
+
+img[alt=Post]{
+	width:50px;
+	height:50px;
+	clip-path: circle();
+}
