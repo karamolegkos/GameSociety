@@ -12,7 +12,9 @@ Inside the folder named Karamolegkos_Panagiotis_E17065:
 # To run the Social Media
 
 Start the MySQL Server
+
 Start TomCat Server
+
 After Starting your Servers you will have to access the path below and run the .jsp file: 
 ```
 Game Society/Web Content/Pages/welcome/login.jsp
