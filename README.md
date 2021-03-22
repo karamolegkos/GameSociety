@@ -1,6 +1,6 @@
 # GameSociety
 This is a Social Media for Gamers, made usign .jsp, .html, .css and .java files. 
-This Social Media is using RESTFul API Services to trasnfer information from clients to the server (Apache Tomcat). 
+This Social Media is using RESTFul API Services to transfer information from clients to the server (Apache Tomcat). 
 The database used was MySQL
 
 # In this repository you will find
