@@ -7,7 +7,6 @@ The database used was MySQL
 Inside the folder named Karamolegkos_Panagiotis_E17065:
 - my_db: A sample database.
 - my_files: A whole dynamic web project with all the files needed to run the Social Media.
-- my_documentation: A documentation made as a Technical Manual and User Manual in the Greek language.
 
 # To run the Social Media
 
