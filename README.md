@@ -21,3 +21,5 @@ Game Society/Web Content/Pages/welcome/login.jsp
 If you have not put the MySQL Database given in the my_db file to your MySQL Server, then the APIs will make a Database ready for use while loging in.
 
 You are ready to go :)
+
+*This project has a file as a report for a User and Technical Manual. You can get this by contacting me <a href="mailto:p.karamolegos@yahoo.gr"><b>here</b></a>.*
